@@ -1,0 +1,17 @@
+h1{
+  color: green;
+}
+header {
+  position: fixed;
+  color: green;
+  width:100%;
+  top: 50;
+  left: 30;
+}
+@media (max-width: 1196) {
+ }
+ 
+ body {
+   display: flex;
+ }
+ 
